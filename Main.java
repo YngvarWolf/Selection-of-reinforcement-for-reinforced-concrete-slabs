@@ -62,7 +62,7 @@ public class Main {
                 deametr = deamArr[indexK];
             }
             System.out.println("На квадратный метр плиты не обходимо " + numInt +
-                    " см² арматуры по X, что соотвествуеет " + deametr +
+                    " см² арматуры, что соотвествуеет " + deametr +
                     "d с шагом " + stepCount + " мм " + "(" + nextLarger + " см²).");
         }
     }
